@@ -52,9 +52,6 @@ let menu =`
  ‖ 💮 *_MENÚ LOGOS PERSONALIZADO_* 💮
  ‖⇶ _${usedPrefix}menucrearlogos | mlogos_
  ‖ 
- ‖ 💎 *_MENU PARA PROPIETARIO/A_* 💎
- ‖⇶ _${usedPrefix}menupropietario_
- ‖
  ‖ ✅ *_CUENTAS OFICIALES GATABOT_* ✅
  ‖⇶ _${usedPrefix}cuentasgatabot | cuentasgb_
  ‖
